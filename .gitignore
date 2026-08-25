@@ -8,15 +8,14 @@ venv/
 .env
 .env.*
 
-# YOLO datasets
-dataset/
-datasets/
-train/
-valid/
-test/
+dataset/train/images/*
+dataset/valid/images/*
+dataset/test/images/*
 
-# YOLO training outputs
-runs/
+dataset/train/labels/*
+dataset/valid/labels/*
+dataset/test/labels/*
+
 
 # Dataset archives
 *.zip
