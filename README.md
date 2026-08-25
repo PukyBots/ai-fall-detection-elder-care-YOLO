@@ -6,7 +6,7 @@ The system detects a potential fall through a webcam in real time and automatica
 
 
 <div align="center">
-<img src="images/1.jpg" width="400">
+<img src="images/1.jpg" width="500">
 </div>
 
 
@@ -24,6 +24,10 @@ This project provides an automated computer-vision-based solution that:
 4. Confirms the detection across consecutive frames to reduce false alarms.
 5. Sends an instant notification through **NTFY**.
 6. Sends a **WhatsApp alert using Twilio**.
+
+<div align="center">
+<img src="images/2.jpg" width="500">
+</div>
 
 ### System Workflow
 
